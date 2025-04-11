@@ -19,7 +19,7 @@ function Header() {
     <>
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Fifth navbar example">
     <div className="container-fluid">
-      <Link className="navbar-brand" to="/home">Harshit</Link>
+      <Link className="navbar-brand" to="/home">NIGAM</Link>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
